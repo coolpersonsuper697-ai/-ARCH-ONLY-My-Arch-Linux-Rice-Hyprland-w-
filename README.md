@@ -1,4 +1,4 @@
-# -ARCH ONLY- Ollie Dotfiles
+# -ARCH ONLY- Ollie Dotfiles-
 here is the tiktok video: https://www.tiktok.com/@puruser875/video/7629440309088275725
 
 Some things in this rice aren't made by me. Credit to original owners. I borrowed the quickshell from end4 dots here: https://github.com/end-4/dots-hyprland
